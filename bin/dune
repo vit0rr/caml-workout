@@ -1,0 +1,4 @@
+(executable
+ (public_name caml_workout)
+ (name main)
+ (libraries caml_workout))
